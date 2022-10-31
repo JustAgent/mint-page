@@ -1,0 +1,21 @@
+.navbar {
+  justify-content: space-around;
+  box-sizing: border-box;
+  /* background-color: red; */
+  height: 80px;
+  width: 100%;
+}
+
+.navbar ul {
+  float: right;
+  margin-right: 20px;
+}
+.navbar ul li {
+  display: inline-block;
+  line-height: 80px;
+  margin: 0 5px;
+}
+.navbar ul li a {
+  font-size: 20px;
+  color: #fff;
+}
